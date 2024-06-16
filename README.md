@@ -15,7 +15,7 @@ This project focuses on developing a machine learning model to detect fraudulent
 In the digital age, the detection and prevention of fraudulent transactions are crucial for both businesses and consumers. This project leverages machine learning to accurately identify fraudulent credit card transactions, enhancing security and reducing financial risk.
 
 ## Data Overview
-The dataset includes transaction details, such as transaction amount, time, and various anonymized features. Data cleaning and preprocessing steps are applied to ensure high-quality inputs for the model. The dataset used for this project is often derived from the public Kaggle dataset on credit card fraud detection.
+The dataset includes transaction details, such as transaction amount, time, and various anonymized features. Data cleaning and preprocessing steps are applied to ensure high-quality inputs for the model. The dataset used for this project is often derived from the public [Kaggle dataset on credit card fraud detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection).
 
 ## Methodology
 The project employs a combination of data preprocessing, feature engineering, and machine learning techniques. Various models, including logistic regression, decision trees, and random forests, are evaluated to determine the best approach. The steps include:
